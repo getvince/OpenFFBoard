@@ -91,9 +91,9 @@ void FFBWheel::restoreFlash(){
 		btn->restoreFlash();
 	}
 
-	uint16_t ppr = 0;
-	if(Flash_Read(ADR_TMC1_PPR, &ppr)){
-		this->enc->setCpr(ppr);
+	uint16_t cpr = 0;
+	if(Flash_Read(ADR_TMC1_CPR, &cpr)){
+		this->enc->setCpr(cpr);
 	}else{
 		pulseErrLed();
 	}
@@ -117,7 +117,7 @@ void FFBWheel::restoreFlash(){
 void FFBWheel::saveFlash(){
 
 	Flash_Write(ADR_FFBWHEEL_CONFIG,FFBWheel::encodeConfToInt(this->conf));
-	Flash_Write(ADR_TMC1_PPR, enc->getCpr());
+	Flash_Write(ADR_TMC1_CPR, enc->getCpr());
 	Flash_Write(ADR_FFBWHEEL_POWER, this->power);
 	Flash_Write(ADR_FFBWHEEL_DEGREES, this->degreesOfRotation);
 	Flash_Write(ADR_FFBWHEEL_BUTTONCONF,this->btnsources);
@@ -319,9 +319,9 @@ void FFBWheel::setEncType(uint8_t enctype){
 		this->conf.enctype = (enctype);
 		this->enc = enc_chooser.Create(enctype);
 	}
-	uint16_t ppr=0;
-	if(Flash_Read(ADR_TMC1_PPR, &ppr)){
-		this->enc->setCpr(ppr);
+	uint16_t cpr=0;
+	if(Flash_Read(ADR_TMC1_CPR, &cpr)){
+		this->enc->setCpr(cpr);
 	}
 	//this->enc->setPos(0); //Zero encoder
 }
