@@ -179,7 +179,7 @@ void FFBWheel::update(){
 				pulseClipLed();
 			}
 			// Scale for power and endstop margin
-			float effect_margin_scaler = 1.0-(((float)(255-fx_ratio_i)/255.0) * endstop_margin_scale);
+			float effect_margin_scaler = ((float)fx_ratio_i/255.0);
 			effectTorque *= ((float)this->power / (float)0x7fff) * effect_margin_scaler;
 			//Send usb gamepad report
 			if(++report_rate_cnt >= usb_report_rate){
