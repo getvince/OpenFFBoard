@@ -20,12 +20,12 @@
 	</p>	
 </div>	
 
-##Disclaimer
+## Disclaimer
 
 This firmware is optimized for the Open FFBoard.
 At the moment the software is far from finished. Features may not work completely or contain errors.
 
-##Documentation
+## Documentation
 
 More documentation about this project is on the [hackaday.io page](https://hackaday.io/project/163904-open-ffboard).
 
@@ -49,7 +49,7 @@ A simplified command parser is available and recommended for setting parameters 
 
 Callbacks like command parsers and timers or external interrupts are also based on virtual classes that can be implemented to add this functionality to any other module. Take a look at `global_callbacks.cpp` for some of them.
 
-##Recommended Motors
+## Recommended Motors
 
 This project is still in development. Recommended motors are not guaranteed to work but are well established in the simracing community.
 
@@ -102,7 +102,7 @@ This project is still in development. Recommended motors are not guaranteed to w
 </tbody>
 </table>
 
-##Tested Encoder
+## Tested Encoder
 
 Encoders that can be used with the current development. Some encoders can only be used as SinCos encoders.
 
@@ -155,7 +155,7 @@ Encoders that can be used with the current development. Some encoders can only b
 </tbody>
 </table>
 
-##FAQ
+## FAQ
 
 **When will it be available?**
 No idea. Hopefully this year (not in large quantities yet.... So probably mid next year). Prototypes are ordered and have to be tested. First boards go to developers that want to help with the firmware
