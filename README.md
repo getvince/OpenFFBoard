@@ -21,10 +21,12 @@
 </div>	
 
 ##Disclaimer
+
 This firmware is optimized for the Open FFBoard.
 At the moment the software is far from finished. Features may not work completely or contain errors.
 
 ##Documentation
+
 More documentation about this project is on the [hackaday.io page](https://hackaday.io/project/163904-open-ffboard).
 
 The hardware designs are found under [OpenFFBoard-hardware](https://github.com/Ultrawipf/OpenFFBoard-hardware).
@@ -34,6 +36,7 @@ The GUI for configuration is found at [OpenFFBoard-configurator](https://github.
 Updates often require matching firmware and GUI versions!
 
 ## Extensions
+
 The modular structure means you are free to implement your own main classes.
 Take a look into the FFBoardMain and ExampleMain class files in the UserExtensions folder.
 Helper functions for parsing CDC commands and accessing the flash are included.
@@ -47,6 +50,7 @@ A simplified command parser is available and recommended for setting parameters 
 Callbacks like command parsers and timers or external interrupts are also based on virtual classes that can be implemented to add this functionality to any other module. Take a look at `global_callbacks.cpp` for some of them.
 
 ##Recommended Motors
+
 This project is still in development. Recommended motors are not guaranteed to work but are well established in the simracing community.
 
 <table>
@@ -99,6 +103,7 @@ This project is still in development. Recommended motors are not guaranteed to w
 </table>
 
 ##Tested Encoder
+
 Encoders that can be used with the current development. Some encoders can only be used as SinCos encoders.
 
 <table>
@@ -151,6 +156,7 @@ Encoders that can be used with the current development. Some encoders can only b
 </table>
 
 ##FAQ
+
 **When will it be available?**
 No idea. Hopefully this year (not in large quantities yet.... So probably mid next year). Prototypes are ordered and have to be tested. First boards go to developers that want to help with the firmware
 **How much will it cost?**
@@ -164,7 +170,9 @@ This way you can also use some third party motor drivers with PWM inputs.
 [Patreon](https://www.patreon.com/gigawipf) or [paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B23BD5FGD5CH8&source=url)
 **How can I help**
 There needs to be done a lot of testing and debugging. Therfore if you have **c++** experience and/or have a motor (see recommended [motors](https://github.com/Ultrawipf/OpenFFBoard/#motors) to test with join our [discord](https://discord.gg/gHtnEcP).
+
 ### Copyright notice:
+
 Some parts of this software may contain source code by ST.
 The license applying to these files is found in the header of the file.
 For all other parts the LICENSE file applies.
