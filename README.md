@@ -54,6 +54,10 @@ Callbacks like command parsers and timers or external interrupts are also based 
 
 This project is still in development. Recommended motors are not guaranteed to work but are well established in the simracing community.
 
+| Name | Picture | Capabilities | Estimated price | Where to buy |
+| ---  | ---     |      ---     |       ---       |       ---    |
+| 130ST-10010 | | Rated Power: 1000W Rated Voltage: 220V Rated Speed: 1000rpm Rated Torque: 10Nm Peak Torque: 20Nm Torque coefficient: 2.2Nm/A | Please contact Mige directly for a quote. The cost for shipping is significant. Taxes and fees have to be paid. | Search for Mige on Alibaba. It is not recommended to buy 3rd party. |
+
 <table>
 <thead>
   <tr>
