@@ -158,18 +158,29 @@ Encoders that can be used with the current development. Some encoders can only b
 
 ## FAQ
 
-**When will it be available?**<BR>
+**When will it be available?**
+
 No idea. Hopefully this year (not in large quantities yet.... So probably mid next year). Prototypes are ordered and have to be tested. First boards go to developers that want to help with the firmware
+
 **How much will it cost?**
+
 From my estimates of parts and manufacturing a full kit should be available under 150€ if no unforseen costs come up. No promises on that though. Might be less or slightly more to cover the costs.
+
 **How much current does the TMC driver provide?**
+
 Its designed for 20A (Most motors are fine with under 10A and plenty strong). With a 1mOhm shunt you can get it up to 30A+
+
 **I want it super cheap and don't need servos. Is that possible without the TMC?**
+
 Yes. For really simple setups a halfbridge DC motor driver and encoder can be connected directly to the FFBoard (STM Interface) instead of using the TMC driver.
 This way you can also use some third party motor drivers with PWM inputs.
+
 **How can i donate?**
+
 [Patreon](https://www.patreon.com/gigawipf) or [paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B23BD5FGD5CH8&source=url)
+
 **How can I help**
+
 There needs to be done a lot of testing and debugging. Therfore if you have **c++** experience and/or have a motor (see recommended [motors](https://github.com/Ultrawipf/OpenFFBoard/#motors) to test with join our [discord](https://discord.gg/gHtnEcP).
 
 ### Copyright notice:
