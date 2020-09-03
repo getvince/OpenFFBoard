@@ -105,9 +105,12 @@ This project is still in development. Recommended motors are not guaranteed to w
 
 **How to contact Mige?**
 
--Goto Mige on Alibaba: [Alibaba.com/hzmgfj](https://hzmgdj.en.alibaba.com/?spm=a2700.wholesale.cordpanyb.2.618c7790hddpKe)
+-Goto Mige on Alibaba: [Alibaba.com/mige](https://hzmgdj.en.alibaba.com/?spm=a2700.wholesale.cordpanyb.2.618c7790hddpKe)
+
 -Login or create an account
+
 -Click on "Contact supplier"
+
 -Type in which servomotor you want, ask for its price including shipping for the motor, cables and the better 10k encoder (if you want the 10k encoder).
 
 Lisa is very helpfull and will answer in no time.
@@ -144,21 +147,21 @@ Encoders that can be used with the current development. Some encoders can only b
   <tr>
     <td>E6B2CWZ6C</td>
     <td></td>
-    <td>2.5k</td>
+    <td>XXk</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>AMS5115</td>
     <td></td>
-    <td>2.5k</td>
+    <td>XXk</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>EQN1325</td>
     <td></td>
-    <td>2.5k</td>
+    <td>XXk</td>
     <td></td>
     <td></td>
   </tr>
