@@ -97,7 +97,7 @@ This project is still in development. Recommended motors are not guaranteed to w
     <td>34HS59-5004D Stepper</td>
     <td></td>
     <td>Amps/Phse: 5A<br>Voltage: 5V<br>Holding Torque: 13Nm<br>Step Angle: 1.8°</td>
-    <td>[stepperonline.com](https://www.omc-stepperonline.com/de/nema-34-schrittmotor-13-0nm-1841oz-in-w-bremse-reibmoment-4-0nm-566oz-in.html)</td>
+    <td> [stepperonline.com](https://www.omc-stepperonline.com/de/nema-34-schrittmotor-13-0nm-1841oz-in-w-bremse-reibmoment-4-0nm-566oz-in.html)</td>
     <td>~120€ + Shipping (EU)</td>
   </tr>
 </tbody>
@@ -122,7 +122,7 @@ Encoders that can be used with the current development. Some encoders can only b
     <td>CUI AMT103</td>
     <td></td>
     <td>Depends on version.<br>Up to 2048ppr or 8192cpr</td>
-    <td>[Digikey.de](https://www.digikey.de/product-detail/de/cui-devices/AMT103-V/102-1308-ND/827016)</td>
+    <td> [Digikey.de](https://www.digikey.de/product-detail/de/cui-devices/AMT103-V/102-1308-ND/827016)</td>
     <td>~20€ + Shipping</td>
   </tr>
   <tr>
