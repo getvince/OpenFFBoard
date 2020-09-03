@@ -7,11 +7,11 @@
 		<a href="https://discord.gg/gHtnEcP">
             <img src="https://img.shields.io/discord/:XXX_INSERT_ID_HEREXXX.svg">
 		</a>
-		<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B23BD5FGD5CH8&source=url">
-            <img src="https://img.shields.io/badge/donate-PayPal-blue.svg">
-		</a>
 		<a href="https://github.com/Ultrawipf/OpenFFBoard/stargazers">
             <img src="https://img.shields.io/github/stars/Ultrawipf/OpenFFBoard?style=plastic">
+		</a>
+		<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B23BD5FGD5CH8&source=url">
+            <img src="https://img.shields.io/badge/donate-PayPal-blue.svg">
 		</a>
 	</div>
 	<h1>OpenFFBoard</h1>
@@ -97,11 +97,20 @@ This project is still in development. Recommended motors are not guaranteed to w
     <td>34HS59-5004D Stepper</td>
     <td></td>
     <td>Amps/Phse: 5A<br>Voltage: 5V<br>Holding Torque: 13Nm<br>Step Angle: 1.8°</td>
-    <td> [stepperonline.com](https://www.omc-stepperonline.com/de/nema-34-schrittmotor-13-0nm-1841oz-in-w-bremse-reibmoment-4-0nm-566oz-in.html)</td>
+    <td> [stepperonline.com](https://www.omc-stepperonline.com/de/nema-34-schrittmotor-13-0nm-1841oz-in-w-bremse-reibmoment-4-0nm-566oz-in.html) </td>
     <td>~120€ + Shipping (EU)</td>
   </tr>
 </tbody>
 </table>
+
+**How to contact Mige?**
+
+-Goto Mige on Alibaba: [Alibaba.com/hzmgfj](https://hzmgdj.en.alibaba.com/?spm=a2700.wholesale.cordpanyb.2.618c7790hddpKe)
+-Login or create an account
+-Click on "Contact supplier"
+-Type in which servomotor you want, ask for its price including shipping for the motor, cables and the better 10k encoder (if you want the 10k encoder).
+
+Lisa is very helpfull and will answer in no time.
 
 ## Tested Encoder
 
@@ -122,7 +131,7 @@ Encoders that can be used with the current development. Some encoders can only b
     <td>CUI AMT103</td>
     <td></td>
     <td>Depends on version.<br>Up to 2048ppr or 8192cpr</td>
-    <td> [Digikey.de](https://www.digikey.de/product-detail/de/cui-devices/AMT103-V/102-1308-ND/827016)</td>
+    <td> [Digikey.de](https://www.digikey.de/product-detail/de/cui-devices/AMT103-V/102-1308-ND/827016) </td>
     <td>~20€ + Shipping</td>
   </tr>
   <tr>
