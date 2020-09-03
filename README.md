@@ -52,7 +52,7 @@ Callbacks like command parsers and timers or external interrupts are also based 
 
 ## Recommended Motors
 
-This project is still in development. Recommended motors are not guaranteed to work but are well established in the simracing community.
+**This project is still in development. Recommended motors are not guaranteed to work but are well established in the simracing community.**
 
 | Name | Picture | Capabilities | Estimated price | Where to buy |
 | ---  | ---     |      ---     |       ---       |       ---    |
