@@ -56,56 +56,11 @@ This project is still in development. Recommended motors are not guaranteed to w
 
 | Name | Picture | Capabilities | Estimated price | Where to buy |
 | ---  | ---     |      ---     |       ---       |       ---    |
-| 130ST-10010 | | Rated Power: 1000W Rated Voltage: 220V Rated Speed: 1000rpm Rated Torque: 10Nm Peak Torque: 20Nm Torque coefficient: 2.2Nm/A | Please contact Mige directly for a quote. The cost for shipping is significant. Taxes and fees have to be paid. | Search for Mige on Alibaba. It is not recommended to buy 3rd party. |
-
-<table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Picture</th>
-    <th>Capabilities</th>
-    <th>Estimated price</th>
-    <th>Where to buy</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>130ST-10010<br>Small Mige</td>
-    <td></td>
-    <td>Rated Power: 1000W<br>Rated Voltage: 220V<br>Rated Speed: 1000rpm<br>Rated Torque: 10Nm<br>Peak Torque: 20Nm<br>Torque coefficient: 2.2Nm/A</td>
-    <td>Please contact Mige directly for a quote.<br>The cost for shipping is significant.<br>Taxes and fees have to be paid.</td>
-    <td>Search for Mige on Alibaba.<br>It is not recommended to buy 3rd party.</td>
-  </tr>
-  <tr>
-    <td>130ST-15015<br>Big Mige</td>
-    <td></td>
-    <td>Rated Power: 2300W<br>Rated Voltage: 220V<br>Rated Speed: 1500rpm<br>Rated Torque: 15Nm<br>Peak Torque: 30Nm<br>Torque coefficient: 1.58Nm/A</td>
-    <td>Please contact Mige directly for a quote.<br>The cost for shipping is significant.<br>Taxes and fees have to be paid.</td>
-    <td>Search for Mige on Alibaba.<br>It is not recommended to buy 3rd party.</td>
-  </tr>
-  <tr>
-    <td>80ST-M04025</td>
-    <td></td>
-    <td>Rated Power: 1000W<br>Rated Voltage: 220V<br>Rated Speed: 2500rpm<br>Rated Torque: 4Nm<br>Peak Torque: 12Nm<br>Torque coefficient: 0.9Nm/A</td>
-    <td>Please contact Mige directly for a quote.<br>The cost for shipping is significant.<br>Taxes and fees have to be paid.</td>
-    <td>Search for Mige on Alibaba.<br>It's not recommended to buy 3rd party.</td>
-  </tr>
-  <tr>
-    <td>SEM HR115C6</td>
-    <td></td>
-    <td>Rated Power: XXW<br>Rated Voltage: 530V<br>Rated Speed: 6000rpm<br>Rated Torque: XNm<br>Peak Torque: 6.8Nm<br>Torque coefficient: XNm/A</td>
-    <td>Used from e.g. Ebay</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>34HS59-5004D Stepper</td>
-    <td></td>
-    <td>Amps/Phse: 5A<br>Voltage: 5V<br>Holding Torque: 13Nm<br>Step Angle: 1.8°</td>
-    <td> [stepperonline.com](https://www.omc-stepperonline.com/de/nema-34-schrittmotor-13-0nm-1841oz-in-w-bremse-reibmoment-4-0nm-566oz-in.html) </td>
-    <td>~120€ + Shipping (EU)</td>
-  </tr>
-</tbody>
-</table>
+| 130ST-10010<br>Small Mige | | Rated Power: 1000W<br>Rated Voltage: 220V<br>Rated Speed: 1000rpm<br>Rated Torque: 10Nm<br>Peak Torque: 20Nm<br>Torque coefficient: 2.2Nm/A | Please contact Mige directly for a quote.<br> The cost for shipping is significant.<br>Taxes and fees have to be paid. | Search for Mige on Alibaba.<br>It is not recommended to buy 3rd party. |
+| 130ST-15015<br>Big Mige | | Rated Power: 2300W<br>Rated Voltage: 220V<br>Rated Speed: 1500rpm<br>Rated Torque: 15Nm<br>Peak Torque: 30Nm<br>Torque coefficient: 1.58Nm/A | Please contact Mige directly for a quote.<br> The cost for shipping is significant.<br>Taxes and fees have to be paid. | Search for Mige on Alibaba.<br>It is not recommended to buy 3rd party. |
+| 80ST-M04025 | | Rated Power: 1000W<br>Rated Voltage: 220V<br>Rated Speed: 2500rpm<br>Rated Torque: 4Nm<br>Peak Torque: 12Nm<br>Torque coefficient: 0.9Nm/A | Please contact Mige directly for a quote.<br> The cost for shipping is significant.<br>Taxes and fees have to be paid. | Search for Mige on Alibaba.<br>It is not recommended to buy 3rd party. |
+| SEM HR115C6 | | Rated Power: XXW<br>Rated Voltage: 530V<br>Rated Speed: 6000rpm<br>Rated Torque: XNm<br>Peak Torque: 6.8Nm<br>Torque coefficient: XNm/A |  | Used from e.g. Ebay |
+| 34HS59-5004D<br>Stepper | | Amps/Phse: 5A<br>Voltage: 5V<br>Holding Torque: 13Nm<br>Step Angle: 1.8° | [stepperonline.com](https://www.omc-stepperonline.com/de/nema-34-schrittmotor-13-0nm-1841oz-in-w-bremse-reibmoment-4-0nm-566oz-in.html)  | ~120€ + Shipping (EU) |
 
 **How to contact Mige?**
 
@@ -123,54 +78,14 @@ Lisa is very helpfull and will answer in no time.
 
 Encoders that can be used with the current development. Some encoders can only be used as SinCos encoders.
 
-<table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Picture</th>
-    <th>PPR/CPR</th>
-    <th>Estimated price</th>
-    <th>Where to buy</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>CUI AMT103</td>
-    <td></td>
-    <td>Depends on version.<br>Up to 2048ppr or 8192cpr</td>
-    <td> [Digikey.de](https://www.digikey.de/product-detail/de/cui-devices/AMT103-V/102-1308-ND/827016) </td>
-    <td>~20€ + Shipping</td>
-  </tr>
-  <tr>
-    <td>AMT132</td>
-    <td></td>
-    <td>Depends on version.<br>Up to 4096ppr or 16384cpr</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>E6B2CWZ6C</td>
-    <td></td>
-    <td>XXk</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>AMS5115</td>
-    <td></td>
-    <td>XXk</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>EQN1325</td>
-    <td></td>
-    <td>XXk</td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
+| Name | PPR/CPR | Estimated price | Where to buy |
+| ---  |      ---     |       ---       |       ---    |
+| CUI AMT103 | Depends on version.<br>Up to 2048ppr or 8192cpr | [Digikey.de](https://www.digikey.de/product-detail/de/cui-devices/AMT103-V/102-1308-ND/827016) | ~20€ + Shipping |
+| AMT132 | Depends on version.<br>Up to 4096ppr or 16384cpr |  |  |
+| E6B2CWZ6C | | | |
+| AMS5115 | | | |
+| EQN1325 | | | |
+
 
 ## FAQ
 
