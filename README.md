@@ -158,7 +158,7 @@ Encoders that can be used with the current development. Some encoders can only b
 
 ## FAQ
 
-**When will it be available?**
+**When will it be available?**<BR>
 No idea. Hopefully this year (not in large quantities yet.... So probably mid next year). Prototypes are ordered and have to be tested. First boards go to developers that want to help with the firmware
 **How much will it cost?**
 From my estimates of parts and manufacturing a full kit should be available under 150€ if no unforseen costs come up. No promises on that though. Might be less or slightly more to cover the costs.
