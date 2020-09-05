@@ -1,11 +1,11 @@
 <div align="center">
     <a href="https://github.com/Ultrawipf/OpenFFBoard">
-        <img width="150" height="150" src="images/openffb_logo.png">
+        <img width="150" height="150" src="images/openffb_logo.svg">
     </a>
 	<br>
 	<div style="display: flex;">
 		<a href="https://discord.gg/gHtnEcP">
-            <img src="https://img.shields.io/discord/:XXX_INSERT_ID_HEREXXX.svg">
+            <img src="https://img.shields.io/discord/704355326291607614">
 		</a>
 		<a href="https://github.com/Ultrawipf/OpenFFBoard/stargazers">
             <img src="https://img.shields.io/github/stars/Ultrawipf/OpenFFBoard?style=plastic">
